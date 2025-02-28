@@ -4,7 +4,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/akash-agasur/Stats-preview)
-- Live Site URL: [Vercel Link](https://stats-preview-orpin.vercel.app/)
+- Live Site URL: [Vercel Link](https://stats-preview-three-phi.vercel.app/)
 
 ### ScreenShot
 
